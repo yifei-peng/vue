@@ -1,0 +1,19 @@
+{
+  "name": "markdown-lint-config",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "yifei-peng <pengyifei2579@163.com>",
+  "homepage": "https://github.com/yifei-peng/vue#readme",
+  "license": "ISC",
+  "main": "index.json",
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yifei-peng/vue.git"
+  },
+  "peerDependencies": {
+    "markdownlint": "^0.38.0"
+  }
+}
