@@ -1,6 +1,6 @@
 {
   "default": true,
-  "ul-style": {
+  "MD004": {
     "style": "dash"
   }
 }
